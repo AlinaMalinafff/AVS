@@ -11,8 +11,8 @@ const unsigned int vector_size = 10000000;
 std::vector<double> A;
 std::vector<double> B;
 
-const int number_of_threads = 1;
-//const int number_of_threads = 4;
+//const int number_of_threads = 1;
+const int number_of_threads = 4;
 
 void* func(void* param) {
     unsigned int shift = vector_size / number_of_threads; // Смещение в потоке для начала массива
