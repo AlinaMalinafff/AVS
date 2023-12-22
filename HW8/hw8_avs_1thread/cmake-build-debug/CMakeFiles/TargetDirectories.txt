@@ -1,3 +1,0 @@
-C:/Users/Alina/CLionProjects/hw8_avs_1thread/cmake-build-debug/CMakeFiles/hw8_avs_dop.dir
-C:/Users/Alina/CLionProjects/hw8_avs_1thread/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Alina/CLionProjects/hw8_avs_1thread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
