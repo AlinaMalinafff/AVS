@@ -1,0 +1,10 @@
+Writer 3: change note with # 1, previous value = 81, new value = 85
+Reader 1: read note #1, value = 85
+Writer 2: change note with # 1, previous value = 85, new value = 85
+Reader 1: read note #7, value = 16
+Writer 4: change note with # 1, previous value = 85, new value = 85
+Reader 1: read note #4, value = 64
+Reader 2: read note #1, value = 85
+Writer 1: change note with # 1, previous value = 85, new value = 85
+Reader 1: read note #0, value = 54
+Reader 2: read note #7, value = 16
