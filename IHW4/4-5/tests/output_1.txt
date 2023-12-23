@@ -1,10 +1,28 @@
-Writer 3: change note with # 1, previous value = 81, new value = 85
-Reader 1: read note #1, value = 85
-Writer 2: change note with # 1, previous value = 85, new value = 85
-Reader 1: read note #7, value = 16
-Writer 4: change note with # 1, previous value = 85, new value = 85
-Reader 1: read note #4, value = 64
-Reader 2: read note #1, value = 85
-Writer 1: change note with # 1, previous value = 85, new value = 85
-Reader 1: read note #0, value = 54
-Reader 2: read note #7, value = 16
+Reader 0: Read record at index 3 = 0
+Reader 1: Read record at index 2 = 0
+Writer 1: Updated record at index 2 from 0 to 23
+Writer 2: Updated record at index 0 from 0 to 87
+Writer 3: Updated record at index 1 from 0 to 83
+Writer 0: Updated record at index 3 from 0 to 26
+Reader 0: Read record at index 1 = 83
+Reader 1: Read record at index 6 = 0
+Writer 1: Updated record at index 2 from 23 to 30
+Writer 3: Updated record at index 3 from 26 to 84
+Writer 0: Updated record at index 8 from 0 to 4
+Writer 2: Updated record at index 9 from 0 to 57
+Reader 0: Read record at index 4 = 0
+Reader 1: Read record at index 0 = 87
+Reader 0: Read record at index 8 = 4
+Reader 1: Read record at index 1 = 83
+Writer 1: Updated record at index 1 from 83 to 76
+Writer 0: Updated record at index 8 from 4 to 64
+Writer 2: Updated record at index 2 from 30 to 19
+Writer 3: Updated record at index 4 from 0 to 31
+Reader 0: Read record at index 0 = 87
+Reader 1: Read record at index 0 = 87
+Writer 1: Updated record at index 5 from 0 to 9
+Writer 0: Updated record at index 3 from 84 to 65
+Writer 2: Updated record at index 7 from 0 to 53
+Writer 3: Updated record at index 9 from 57 to 97
+Reader 0: Read record at index 5 = 9
+Reader 1: Read record at index 9 = 97
