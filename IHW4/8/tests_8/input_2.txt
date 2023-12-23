@@ -1,0 +1,1 @@
+C:\Users\Alina\CLionProjects\8\cmake-build-debug\8.exe 8 2 C:\Users\Alina\CLionProjects\8\cmake-build-debug\text.txt

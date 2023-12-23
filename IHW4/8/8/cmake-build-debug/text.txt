@@ -1,0 +1,70 @@
+Reader 0: Read record at index 4 = 0
+Reader 1: Read record at index 2 = 0
+Reader 2: Read record at index 2 = 0
+Reader 3: Read record at index 1 = 0
+Reader 4: Read record at index 9 = 0
+Reader 5: Read record at index 0 = 0
+Reader 6: Read record at index 8 = 0
+Reader 7: Read record at index 6 = 0
+Writer 0: Updated record at index 4 from 0 to 57
+Writer 1: Updated record at index 2 from 0 to 53
+Reader 0: Read record at index 0 = 0
+Reader 1: Read record at index 6 = 0
+Reader 2: Read record at index 9 = 0
+Reader 3: Read record at index 4 = 57
+Reader 4: Read record at index 0 = 0
+Reader 5: Read record at index 5 = 0
+Reader 6: Read record at index 8 = 0
+Reader 7: Read record at index 4 = 57
+Writer 1: Updated record at index 3 from 0 to 67
+Writer 0: Updated record at index 8 from 0 to 9
+Reader 0: Read record at index 9 = 0
+Reader 1: Read record at index 7 = 0
+Reader 2: Read record at index 4 = 57
+Reader 3: Read record at index 1 = 0
+Reader 4: Read record at index 8 = 9
+Reader 5: Read record at index 4 = 57
+Reader 6: Read record at index 1 = 0
+Reader 7: Read record at index 8 = 9
+Reader 0: Read record at index 9 = 0
+Reader 1: Read record at index 2 = 53
+Reader 2: Read record at index 5 = 0
+Reader 3: Read record at index 7 = 0
+Reader 4: Read record at index 8 = 9
+Reader 5: Read record at index 1 = 0
+Reader 6: Read record at index 3 = 67
+Reader 7: Read record at index 6 = 0
+Writer 0: Updated record at index 9 from 0 to 45
+Writer 1: Updated record at index 2 from 53 to 57
+Reader 0: Read record at index 8 = 9
+Reader 1: Read record at index 0 = 0
+Reader 2: Read record at index 2 = 57
+Reader 3: Read record at index 2 = 57
+Reader 4: Read record at index 4 = 57
+Reader 5: Read record at index 6 = 0
+Reader 6: Read record at index 8 = 9
+Reader 7: Read record at index 0 = 0
+Writer 1: Updated record at index 7 from 0 to 75
+Writer 0: Updated record at index 5 from 0 to 31
+Reader 0: Read record at index 1 = 0
+Reader 1: Read record at index 5 = 31
+Reader 2: Read record at index 9 = 45
+Reader 3: Read record at index 3 = 67
+Reader 4: Read record at index 7 = 75
+Reader 5: Read record at index 1 = 0
+Reader 6: Read record at index 5 = 31
+Reader 7: Read record at index 9 = 45
+Reader 0: Read record at index 6 = 0
+Writer 1: Updated record at index 2 from 57 to 99
+Writer 0: Updated record at index 6 from 0 to 7
+Reader 1: Read record at index 2 = 99
+Reader 2: Read record at index 1 = 0
+Reader 3: Read record at index 7 = 75
+Reader 4: Read record at index 5 = 31
+Reader 5: Read record at index 2 = 99
+Reader 6: Read record at index 0 = 0
+Reader 7: Read record at index 6 = 7
+Reader 0: Read record at index 0 = 0
+Reader 1: Read record at index 0 = 0
+Reader 2: Read record at index 0 = 0
+Reader 3: Read record at index 8 = 9

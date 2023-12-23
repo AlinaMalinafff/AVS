@@ -1,0 +1,61 @@
+Reader 0: Read record at index 0 = 0
+Reader 1: Read record at index 8 = 0
+Reader 2: Read record at index 8 = 0
+Reader 3: Read record at index 7 = 0
+Writer 1: Updated record at index 8 from 0 to 64
+Writer 2: Updated record at index 8 from 64 to 60
+Writer 0: Updated record at index 0 from 0 to 0
+Reader 0: Read record at index 8 = 60
+Reader 1: Read record at index 3 = 0
+Reader 2: Read record at index 6 = 0
+Reader 3: Read record at index 2 = 0
+Writer 1: Updated record at index 0 from 0 to 97
+Writer 0: Updated record at index 4 from 0 to 71
+Writer 2: Updated record at index 5 from 0 to 24
+Reader 0: Read record at index 1 = 0
+Reader 1: Read record at index 7 = 0
+Reader 2: Read record at index 4 = 71
+Reader 3: Read record at index 1 = 0
+Reader 0: Read record at index 4 = 71
+Reader 1: Read record at index 7 = 0
+Reader 2: Read record at index 0 = 97
+Reader 3: Read record at index 3 = 0
+Writer 1: Updated record at index 7 from 0 to 91
+Writer 0: Updated record at index 4 from 71 to 48
+Writer 2: Updated record at index 0 from 97 to 3
+Reader 0: Read record at index 3 = 0
+Reader 1: Read record at index 5 = 24
+Reader 2: Read record at index 7 = 91
+Reader 3: Read record at index 8 = 60
+Writer 1: Updated record at index 4 from 48 to 60
+Writer 0: Updated record at index 2 from 0 to 16
+Writer 2: Updated record at index 6 from 0 to 4
+Reader 0: Read record at index 6 = 4
+Reader 1: Read record at index 0 = 3
+Reader 2: Read record at index 4 = 60
+Reader 3: Read record at index 8 = 60
+Reader 0: Read record at index 7 = 91
+Reader 1: Read record at index 4 = 60
+Reader 2: Read record at index 2 = 16
+Reader 3: Read record at index 8 = 60
+Writer 0: Updated record at index 7 from 91 to 48
+Writer 1: Updated record at index 4 from 60 to 72
+Writer 2: Updated record at index 2 from 16 to 96
+Reader 0: Read record at index 6 = 4
+Reader 1: Read record at index 4 = 72
+Reader 2: Read record at index 4 = 72
+Reader 3: Read record at index 4 = 72
+Writer 0: Updated record at index 4 from 72 to 85
+Writer 2: Updated record at index 4 from 85 to 67
+Writer 1: Updated record at index 4 from 67 to 10
+Reader 0: Read record at index 5 = 24
+Reader 1: Read record at index 0 = 3
+Reader 2: Read record at index 7 = 48
+Reader 3: Read record at index 5 = 24
+Writer 0: Updated record at index 2 from 96 to 17
+Reader 0: Read record at index 2 = 17
+Writer 2: Updated record at index 4 from 10 to 48
+Reader 1: Read record at index 7 = 48
+Reader 2: Read record at index 4 = 10
+Reader 3: Read record at index 0 = 3
+Writer 1: Updated record at index 7 from 48 to 33
